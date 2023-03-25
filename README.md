@@ -2,3 +2,5 @@
 - SW개발 중급 과정(JS)
 
 https://army.goorm.io/
+
+By. https://github.com/kangtegong/JS-project-class
